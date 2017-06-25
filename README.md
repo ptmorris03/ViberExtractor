@@ -12,7 +12,12 @@ python3 main.py viber.db --out "outfile.txt" --chatname "Sally"
 # Example Output:
 
 12:31:54, From: Sally    , bro what was that type of cheese you had at lunch?
+
 14:44:56, From: Sally    , o sry wrong number
+
 14:45:12, From: Sally    , but I mean if u have any cheese recommendations...
+
 14:45:19, To  : Sally    , Not a cheese fan
+
 14:45:31, From: Sally    , Then why am I still talking to you
+
