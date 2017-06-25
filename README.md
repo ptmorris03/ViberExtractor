@@ -5,6 +5,8 @@ If you use Viber Desktop, all your messages are stored in a sqlite database. In 
 
 to extract messages from viber.db with this script, download and run main.py
 
+supports optional cmd line arguments for location of output file, chat name to extract, and UNIX start/end times to filter messages by
+
 # Example Usage:
 
 python3 main.py viber.db --out "outfile.txt" --chatname "Sally"
